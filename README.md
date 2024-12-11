@@ -1,14 +1,10 @@
 # BackendProject
 
-Install the following dependencies --
+Run the following command in your terminal --
 
-* npm install dotenv
-* npm install ejs
-* npm install express
-* npm install mongodb
-* npm install mongoose
+* npm install 
 
 Add an .env file according to the given .env.example file
 
-And after installing the dependencies run the following command --
+And after installing the dependencies , run the following command --
 node app.js
